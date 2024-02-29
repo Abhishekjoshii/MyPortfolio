@@ -1,6 +1,8 @@
 @media screen and (max-width: 1200px){
-    #deskop-nab{
+    #desktop-nav{
    display: none;
     }
+ #hamburger-nav{
+ display: flex;
+    }
 }
-    
