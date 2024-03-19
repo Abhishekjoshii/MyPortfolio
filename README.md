@@ -4,20 +4,23 @@ Welcome to Abhishek Joshi's portfolio! This web application showcases Abhishek's
 
 Features
 
-Responsive Design: The portfolio is built with a responsive design, ensuring a seamless experience across various devices and screen sizes.
+Responsive Design:
+
+The portfolio is built with a responsive design, ensuring a seamless experience across various devices and screen sizes.
 
 Project Showcase:
+
 Explore Abhishek's featured projects, each with detailed descriptions, technologies used, and links to live demos or repositories.
 
 Skills and Expertise:
 
 Discover the range of skills and expertise that Abhishek possesses. The skills section provides insights into his proficiency in different technologies and tools.
 
-Interactive Elements: 
+Interactive Elements
 
 The use of JavaScript enhances the portfolio with interactive elements, such as smooth scrolling, dynamic animations, and other user-friendly features.
 
-Technologies Used
+Technologies Used:
 
 HTML: The structure of the portfolio is built using HTML to organize content and create a solid foundation.
 
@@ -25,16 +28,16 @@ CSS: Cascading Style Sheets are utilized for styling, ensuring a visually appeal
 
 JavaScript: Interactivity and dynamic elements are added using JavaScript, providing a more engaging user experience.
 
-Getting Started
+Getting Started:
 
 To view Abhishek Joshi's portfolio, simply open the index.html file in a web browser. The portfolio is hosted online at example.com/abhishek-joshi-portfolio, providing easy access for anyone interested in Abhishek's work.
 
-How to Contribute
+How to Contribute:
 
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Your feedback is highly appreciated!
 
-Contact
+Contact:
 
-For any inquiries or collaborations, you can reach out to Abhishek Joshi at joshiabhishek847@gmail.com
+For any inquiries or collaborations, you can reach out to Abhishek Joshi at joshiabhishek847@gmail.com.
 
 Thank you for visiting Abhishek Joshi's portfolio! Explore the projects, learn about the skills, and get in touch for exciting opportunities.
